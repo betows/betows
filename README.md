@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/betows" target="blank"><img align="center" src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Fill-Black-Large.png" alt="betows" height="30" width="40" /></a>
-<a href="https://twitter.com/betonh0" target="blank"><img align="center" src="https://www.seekpng.com/png/detail/351-3516255_png-file-svg-twitter-icon-white-square.png" alt="betonh0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/roberto amaral" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png" alt="roberto amaral" height="30" width="40" /></a>
+<a href="https://codepen.io/betows" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-2091/100/social-32-512.png" alt="betows" height="30" width="40" /></a>
+<a href="https://twitter.com/betonh0" target="blank"><img align="center" src="http://simpleicon.com/wp-content/uploads/twitter-3.svg" alt="betonh0" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/roberto amaral" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/541526511556105711-512.png" alt="roberto amaral" height="30" width="40" /></a>
 <a href="https://instagram.com/betowss" target="blank"><img align="center" src="https://freevectoricon.com/wp-content/uploads/2020/08/instagram-logo-png-transparent-svg-vector-freebie-supply-in.png" alt="betowss" height="30" width="40" /></a>
 </p>
 
