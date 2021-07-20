@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roberto</h1>
-<h3 align="center">A passionate front-end student from Brazil</h3>
+<h3 align="center">A passionate programing student from Brazil</h3>
 
-- 🌱 I’m currently learning **JavaScript, ReactJS.**
+- 🌱 I’m currently learning **JavaScript, ReactJS, Python.**
 
 - 📝 I regularly write articles on [http://linkedin.com/in/roberto-amaral-586716209](http://linkedin.com/in/roberto-amaral-586716209)
 
