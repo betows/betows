@@ -5,7 +5,7 @@ I’m currently a software developer student and technology passionate, at the m
 
 <p> <a href="https://www.linkedin.com/in/roberto-amaral-586716209/"><img src="https://img.shields.io/badge/-Roberto Amaral-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;https://www.linkedin.com/in/roberto-amaral-586716209/" alt="LinkedIn Badge"></a></p>
 
-Feel free to check my portifolio <p> https://betows.github.io </p>
+##Feel free to check my portifolio: https://betows.github.io 
 
 ### Some technologies that I work and study 🚀
 <table>
