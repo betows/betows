@@ -1,28 +1,31 @@
-<h1 align="center">Hello world 👋, I'm Roberto</h1>
-<h3 align="center">A passionate programing student from Brazil</h3>
 
-- 🌱 I’m currently learning **JavaScript, ReactJS, Python.**
+### Hi there 👋, I'm Roberto
 
-- 📝 I regularly write articles on [http://linkedin.com/in/roberto-amaral-586716209](http://linkedin.com/in/roberto-amaral-586716209)
+I’m currently a software developer student and technology passionate, currently I'm study Reactjs in frontend and python backend in general, but I'm always open for new things to study or work.
 
-- 📫 How to reach me **robertoamaral56@gmail.com**
-
-- ⚡ Fun fact **I cut hair, i’m a barber learning tecnology.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/betows" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-2091/100/social-32-512.png" alt="betows" height="30" width="40" /></a>
-<a href="https://twitter.com/betonh0" target="blank"><img align="center" src="http://simpleicon.com/wp-content/uploads/twitter-3.svg" alt="betonh0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/roberto amaral" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/541526511556105711-512.png" alt="roberto amaral" height="30" width="40" /></a>
-<a href="https://instagram.com/betowss" target="blank"><img align="center" src="https://freevectoricon.com/wp-content/uploads/2020/08/instagram-logo-png-transparent-svg-vector-freebie-supply-in.png" alt="betowss" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="python" width="40" height="40"/> </a></p>
+<p> <a href="https://www.linkedin.com/in/serbis/"><img src="https://img.shields.io/badge/-Roberto Amaral-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;https://www.linkedin.com/in/roberto-amaral-586716209/" alt="LinkedIn Badge"></a></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=betows&show_icons=true&locale=en&layout=compact" alt="betows" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=betows&show_icons=true&locale=en" alt="betows" /></p>
+### Some technologies that I work and study 🚀
+<table>
+  <tr>
+    <td align="center" width="130">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35" height="40" alt="typescript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="130">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="40" alt="javascript" />
+      <br>JavaScript
+    </td>
+  <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" height="40" alt="React" />
+    <br>React
+  </td>
+    <td align="center" width="130"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" height="40" alt="Python" />
+      <br>Python
+    </td>
+    </td>
+  </tr>
+</table>
