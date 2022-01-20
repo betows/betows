@@ -26,6 +26,14 @@ I’m currently a software developer student and technology passionate, at the m
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" height="40" alt="Python" />
       <br>Python
     </td>
+    <td align="center" width="130">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="35" height="40" alt="django" />
+      <br>Django
+    </td>
+    <td align="center" width="130">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="35" height="40" alt="flask" />
+      <br>Flask
+    </td>
     </td>
   </tr>
 </table>
