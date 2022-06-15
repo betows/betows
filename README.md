@@ -1,7 +1,7 @@
 
 ### Hello world 👋, I'm Roberto
 
-I’m currently a software developer student and technology passionate, at the moment I'm studying Reactjs in frontend and python backend in general, but I'm always open for new things to study or work.
+I’m currently a professional software developer and technology passionate, at the moment I'm working with Vue / nuxt.js in frontend and django on backend in general, but I'm always open for new things to study or work.
 
 <p> <a href="https://www.linkedin.com/in/roberto-amaral-586716209/"><img src="https://img.shields.io/badge/-Roberto Amaral-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;https://www.linkedin.com/in/roberto-amaral-586716209/" alt="LinkedIn Badge"></a></p>
 
