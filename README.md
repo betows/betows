@@ -11,7 +11,7 @@ I’m currently a professional software developer and technology passionate, at 
 <table>
   <tr>
     <td align="center" width="130">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/icons/vuejs-original.svg" width="35" height="40" alt="typescript" />
+        <img src=["https://cdn.jsdelivr.net/gh/devicons/devicon/icons/icons/vuejs-original.svg](https://cdnjs.cloudflare.com/ajax/libs/vue-svgicon/3.3.2/components/svgicon.umd.min.js)" width="35" height="40" alt="typescript" />
       <br>Vue.js
     </td>
     <td align="center" width="130">
