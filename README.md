@@ -11,11 +11,11 @@ I’m currently a professional software developer and technology passionate, at 
 <table>
   <tr>
     <td align="center" width="130">
-        <img src="https://icons8.com/icon/rY6agKizO9eb/vue-js" width="35" height="40" alt="typescript" />
+        <img src="https://icons8.com/icon/rY6agKizO9eb/vue-js" width="35" height="40" alt="Vue.js" />
       <br>Vue.js
     </td>
     <td align="center" width="130">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/icons/nuxtjs-original.svg" width="35" height="40" alt="typescript" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/icons/nuxtjs-original.svg" width="35" height="40" alt="Nuxt" />
       <br>Nuxt.js
     </td>
     <td align="center" width="130">
