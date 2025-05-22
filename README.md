@@ -9,7 +9,6 @@ I'm a **full-stack developer** based in Brazil 🇧🇷 with a strong focus on *
 - **📱 Appoint** – An appointment platform connecting clients and service providers with real-time calendars, payments (Stripe, Pix), and WhatsApp notifications.
 - **📦 Alif CMS** – An advanced e-commerce and product management platform powered by **Nuxt.js**, **Node.js**, **Meilisearch**, and **Medusa.js**.
 - **🧠 Lavague AI Tool** – A no-code QA testing framework for websites using natural language and AI automation.
-- **🎰 iGaming Provider** – Creating scalable casino-style slot games with backend user/session handling and animations.
 - **📈 Faceless Automation Projects** – Affiliate marketing and content automation using Make.com, OpenAI, and trending data.
 
 ---
@@ -17,13 +16,13 @@ I'm a **full-stack developer** based in Brazil 🇧🇷 with a strong focus on *
 ## 🛠️ Tech Stack
 
 **Frontend**  
-`Nuxt 3` · `Vue 3` · `Tailwind CSS` · `Pinia` · `Quill` · `Vite` · `Composable Architecture`
+`Nuxt 3` · `Vue 3` · `Tailwind CSS` · `Pinia` · `Quill` · `Vite` · `Composable Architecture` . `JavaScript`
 
 **Backend**  
-`Node.js (Express)` · `Prisma` · `PostgreSQL` · `Medusa.js` · `REST API` · `Stripe` · `AWS S3` · `Make.com Automations`
+`Node.js (Express)` · `Prisma` · `PostgreSQL` · `Medusa.js` · `REST API` · `Stripe` · `AWS S3`
 
 **Tools & AI**  
-`OpenAI API` · `Make.com` · `LaVague` · `Puppeteer` · `Notion API` · `Socket.io`
+`OpenAI API` · `LaVague` · `Puppeteer` · `Notion API` · `Socket.io`
 
 **Infrastructure**  
 `Docker` · `GitHub Actions` · `DigitalOcean` · `VPS / Serverless` · `MongoDB Atlas`  
@@ -45,7 +44,6 @@ I'm a **full-stack developer** based in Brazil 🇧🇷 with a strong focus on *
 | **Appoint** | Full booking platform with real-time calendar, payment integration, notifications | Nuxt, Node.js, Stripe, Prisma |
 | **Alif CMS** | Product/order management with Meilisearch, stats, and reactive UI | Vue, Meilisearch, Sequelize |
 | **Lavague QA** | AI tool to automate testing websites via natural language | Flask, Puppeteer, OpenAI |
-| **Slot Game Backend** | Casino games with server-based game logic and animations | Node.js, PIXI.js |
 | **Affiliate Automation** | Auto-generates and sends product emails daily using Make.com | Notion API, OpenAI, Make |
 
 ---
@@ -60,9 +58,8 @@ I wrote an ebook called **"What They Expect"** to help developers understand tha
 
 ## 📫 Let’s Connect
 
-- 🐦 [Twitter (soon)](https://github.com/robertoamaral)
-- 🌐 [Portfolio (in progress)](https://github.com/robertoamaral)
-- 📧 Email me for collabs or mentorship: `robertoamaral.dev@gmail.com`
+- 🌐 [Portfolio ](https://betows.github.io)
+- 📧 Email me for collabs or mentorship: `robertoamaral56@gmail.com`
 
 ---
 
