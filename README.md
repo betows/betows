@@ -9,7 +9,6 @@ I'm a **full-stack developer** based in Brazil 🇧🇷 with a strong focus on *
 - **📱 Appoint** – An appointment platform connecting clients and service providers with real-time calendars, payments (Stripe, Pix), and WhatsApp notifications.
 - **📦 Alif CMS** – An advanced e-commerce and product management platform powered by **Nuxt.js**, **Node.js**, **Meilisearch**, and **Medusa.js**.
 - **🧠 Lavague AI Tool** – A no-code QA testing framework for websites using natural language and AI automation.
-- **📈 Faceless Automation Projects** – Affiliate marketing and content automation using Make.com, OpenAI, and trending data.
 
 ---
 
