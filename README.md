@@ -55,13 +55,13 @@ I wrote an ebook called **"What They Expect"** to help developers understand tha
 
 ## 📫 Let’s Connect
 
-- 🌐 [Portfolio ](https://betows.github.io)
+- 🌐 [Portfolio ](https://robertodev.com)
 - 📧 Email me for collabs or mentorship: `robertoamaral56@gmail.com`
 
 ---
 
 ## 💡 Fun Fact
 
-I love building **tools that automate revenue** – from affiliate newsletters to faceless content engines, if it's smart, scalable, and hands-off, I'm building it.
+I love building **tools that are interactive and fun** – from browser games to smart tools, if it's smart, scalable, and hands-off, I'm building it.
 
 ---
