@@ -43,8 +43,6 @@ I'm a **full-stack developer** based in Brazil 🇧🇷 with a strong focus on *
 | **Appoint** | Full booking platform with real-time calendar, payment integration, notifications | Nuxt, Node.js, Stripe, Prisma |
 | **Alif CMS** | Product/order management with Meilisearch, stats, and reactive UI | Vue, Meilisearch, Sequelize |
 | **Lavague QA** | AI tool to automate testing websites via natural language | Flask, Puppeteer, OpenAI |
-| **Affiliate Automation** | Auto-generates and sends product emails daily using Make.com | Notion API, OpenAI, Make |
-
 ---
 
 ## 🧩 Philosophy
